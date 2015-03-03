@@ -1,5 +1,6 @@
 #!/usr/bin/env python
-#import random, sys
+
+
 from Tkinter import *
 import time
 
